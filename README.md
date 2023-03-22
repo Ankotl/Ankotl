@@ -29,4 +29,4 @@
 ### 📧 Почта: an.kotlyakov@yandex.ru
 ### 🌐 Telegram: [@ant3kot](https://t.me/ant3kot)
 
-### [Резюме](https://kazan.hh.ru/resume/07cfe7b9ff09eae1b00039ed1f483770343477)
+
