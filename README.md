@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=6DB386&center=true&lines=%D0%AF+Frontend+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
-### Приоритеты:
-+ 🧼 Обучение и развитие
-+ 🚀 Осваиваю новые технологии
-+ ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
 
 ### Стэк технологий: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
