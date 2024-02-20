@@ -21,8 +21,6 @@
 ### Codewars:
 [![codewars](https://www.codewars.com/users/Ankotl/badges/large)](https://www.codewars.com/users/Ankotl)
 
-### Контакты:
-### 📧 Почта: an.kotlyakov@yandex.ru
-### 🌐 Telegram: [@ant3kot](https://t.me/ant3kot)
+
 
 
